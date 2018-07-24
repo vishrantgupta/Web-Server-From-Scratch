@@ -1,5 +1,5 @@
 
-PROGS= a3
+PROGS= server
 
 all: $(PROGS)
 
